@@ -4,9 +4,9 @@
 (2)MetaGPT功能测试                                                     
 
 ## 1.2 MetaGPT介绍
-MetaGPT是独立开发者发布的一个用于构建AI Agent系统的多智能体开源框架，为了处理复杂任务，将不同的角色分配给GPT模型，形成一个协作性软件公司                                             
-MetaGPT内部包括产品经理、架构师、项目经理、工程师，它提供了一个软件公司的全过程与精心调配的SOP                
-Code = **SOP(Team) 是核心哲学**。将SOP具象化，并且用于LLM构成的团队                          
+MetaGPT是中国国内一位独立开发者发布的一个用于构建AI Agent系统的多智能体开源框架，为了处理复杂任务，将不同的角色分配给GPT模型，形成一个协作性软件公司                                             
+MetaGPT内部内置包括产品经理、架构师、项目经理、工程师等角色，它提供了一个软件公司的全过程与精心调配的SOP(标准作业程序)                                  
+**SOP(Team) 是核心哲学**。将SOP具象化，并且用于LLM构成的团队                          
 MetaGPT从软件公司开始，但它的能力并不局限于此。你可以在自己的场景里使用这个多智能体框架来搭建属于自己的应用                                       
 github地址:https://github.com/geekan/MetaGPT                                          
 官网地址:https://docs.deepwisdom.ai/main/zh/                                                          
