@@ -1,7 +1,9 @@
 # 1、项目介绍
 ## 1.1、本次分享介绍                      
 (1)MetaGPT框架介绍                                                                             
-(2)MetaGPT功能测试                                                     
+(2)MetaGPT功能测试                        
+相关视频:               
+https://youtu.be/SHgKxq5ovtc                
 
 ## 1.2 MetaGPT介绍
 MetaGPT是中国国内一位独立开发者发布的一个用于构建AI Agent系统的多智能体开源框架，为了处理复杂任务，将不同的角色分配给GPT模型，形成一个协作性软件公司                                             
