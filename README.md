@@ -3,6 +3,7 @@
 (1)MetaGPT框架介绍                                                                             
 (2)MetaGPT功能测试                        
 相关视频:               
+https://www.bilibili.com/video/BV1DEivY5Ewe/                    
 https://youtu.be/SHgKxq5ovtc                
 
 ## 1.2 MetaGPT介绍
