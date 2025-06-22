@@ -1,0 +1,1 @@
+C:\Users\Administrator\.metagpt\config2.yaml
